@@ -1,9 +1,9 @@
 {
-    "name": "meniam/autotext",
+    "name": "slkxmail/autotext",
     "type": "library",
     "description":  "Seo text generator bundle",
     "keywords": ["app", "web", "seo", "text"],
-    "homepage": "https://github.com/meniam/autotext",
+    "homepage": "https://github.com/slkxmail/autotext",
     "license":  "MIT",
     "authors": [
         {
